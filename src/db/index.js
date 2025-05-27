@@ -12,4 +12,3 @@ const connectDb=async() => {
 }
 
 export default connectDb;
-// This code connects to a MongoDB database using Mongoose.
